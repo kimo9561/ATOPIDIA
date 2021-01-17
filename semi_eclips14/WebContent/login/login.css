@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+   #login{
+      margin-top:8%;
+      margin-left:-1%;
+      margin-right:5%;
+      margin-bottom: 30%;
+      color:#FFF;
+      background-color:#2C383B;
+      width:100px;
+      height:44px;
+   
+   
+   }
+   #login_title{
+        text-align: center;
+        background-color:#2C383B;
+        color: #FFF;
+        padding: 2%;
+   }
+   
+   .logintext{
+            width: 20%;
+            height: 30px;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+            font-size: 15px;
+            margin-left: 2%;
+            margin-bottom: 1%
+    }
+    
+
+    
+    #loginform{
+       margin: 4%
+       
+    }
+    
+  

@@ -1,0 +1,183 @@
+
+   /*  div .pageRelative {
+        position: relative;
+        border: 1px black solid;
+        margin-top: 20px;
+        width: 300px;
+        height: 450px;
+        display: none;
+     }
+     
+     .zoom:hover {
+        -ms-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+        overflow: hidden;
+     }
+     .diaryclass {
+        position: relative;
+        width: 400px;
+        font-family: Comic Sans MS;
+        font-size: x-large;
+        border: 6px green solid;
+        border-radius: 10px;
+        color: #555555;
+        top: 80px;
+        float: left;
+        margin-left: 7%;
+        margin-bottom: 1%;
+     }
+     .btnRelativezoom {
+        position: relative;
+        float: right;
+        margin-right: 10px;
+        background-color: #2C383B;
+        color: white; 
+     }
+     #diaryTitle{
+        text-align: center;
+        margin-top: 1%;
+     }
+     .diary_recipe {
+        position: relative;
+        font-family: Comic Sans MS;
+        font-size: x-large;
+        border: 6px green solid;
+        border-radius: 10px;
+        color: #555555;
+        top: 80px;
+     }
+     #diary_recipe{
+        width: 1500px;
+        height: 100px;
+        float: left;
+        margin-left: 7%;
+     }
+     .insert_image{
+        position: relative;
+        float: left;
+        bottom: -20%;
+        left: -79.5%;
+        margin-top: 1%;
+     }
+     input[name=uploadFile]{
+        position: relative;
+        bottom: -80%;
+        left: -79.5%;
+        margin-top: 1%;
+    }
+    #img {
+       position: relative;
+       border: 6px green solid;
+        border-radius: 10px;
+        background-color: white;
+       bottom: -10%;
+       left: 15%;
+       margin-left: 5%;
+    }
+    h3{
+       float: left;
+       color: white;
+        border: 6px green solid;
+       border-radius: 10px;
+       background-color: white; */
+       left: -80%;
+    }*/
+    #diary_session{
+       display: inline-block;
+    }
+    #diary_left{
+       float: left;
+       width: 20%;
+       margin-top: 8%;
+       margin-left: 5%;
+    }
+    #diary_left ul li{
+       margin-top: 6%;
+       font-size: 30pt;
+       text-align: center;
+       color: gold;
+       background-color: #2C383B;
+       border-style: solid;
+       border-color: gold;
+    }
+    #diary_left ul li:hover{
+       background-color: rgb(34, 43, 46);
+       color: white;
+    }
+    #diary_right{
+       float: right;
+       width: 60%;
+       height: 60%;
+       margin-top: 5%;
+       margin-right: 5%;
+    }
+    #input_img{
+       width: 20%;
+       margin-right: 10%;
+    }
+    #diary_button{
+       text-align: center;
+    }
+   
+   .diaryclass{
+      width: 80%;
+      height: 70%;
+      margin-left: 4%;
+      font-size: 20pt;
+      color: gold;
+       background-color: #2C383B;
+       border-style: solid;
+       border-color: gold;
+   }
+   .diaryclass:focus{
+       outline: none;
+   }
+   #morning{
+      display: none;
+   }
+   #lunch{
+      display: none;
+   }
+   #dinner{
+      display: none;
+   }
+   #comment{
+      display: none;
+   }
+   #right_title{
+      margin-left: 4%;
+      margin-bottom: 0%;
+      font-size: 25pt;
+      color: gold;
+      font-weight: bolder;
+   }
+   #img{
+      width: 80%;
+      height: 50%;
+      margin-left: 4%;
+       border-style: solid;
+       border-color: gold;
+       display: none;
+   }
+   .btnRelativezoom {
+        position: relative;
+        float: right;
+        margin-right: 10px;
+        background-color: #2C383B;
+        color: white; 
+     }
+     #diaryTitle{
+        text-align: center;
+        margin-top: 2%;
+     }
+     input[name=diary_Title]{
+        width: 15%;
+        height: 45px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        font-size: 15px;
+        margin-left: 10px;
+     }
+   

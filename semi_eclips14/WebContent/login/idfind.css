@@ -1,0 +1,62 @@
+@charset "UTF-8";
+#name{
+   margin-right:5%;
+   margin-top:30%;
+   
+}
+.name1{
+   margin-right:5%;
+   left:80%;
+}
+
+#btn{
+     color:#FFF;
+      background-color:#2C383B;
+      width:100px;
+      height:30px;
+}
+#cancel{
+     color:#FFF;
+      background-color:#2C383B;
+      width:60px;
+      height:30px;
+}
+#search{
+       color:#FFF;
+      background-color:#2C383B;
+      width:60px;
+      height:30px;
+}
+#btn1{
+      color:#FFF;
+      background-color:#2C383B;
+      width:80px;
+      height:30px;
+}
+#login_title{
+        text-align: center;
+        background-color:#2C383B;
+        color: #FFF;
+        padding: 2%;
+}
+#table{
+   margin-left:30%;
+   margin-top:10%;
+}
+
+#searchid{
+   margin-left:25%;
+   margin-top:7%;
+} 
+#searchid tr td {
+	padding: 2%
+}
+
+#wrapper{
+
+   margin-left:30%;
+}
+img{
+   height:30px;
+   
+}

@@ -1,0 +1,57 @@
+  	.ico{
+			color:red;
+		
+		}
+		.sub{
+	 		 margin-left:50%;
+
+		}
+		input{
+			width:332px;
+			height:44px;
+		}
+	
+		#password{
+			width:100px;
+			height:44px;
+    		border: 1px solid ;
+    		color:#FFF;
+    		background-color:#2C383B;
+		}
+		#id{
+			width:100px;
+			height:44px;
+    		border: 1px solid ;
+    		color:#FFFF;
+    		background-color:#2C383B;
+		
+		}
+		th{
+			width:159px;
+			height:74px;
+		}
+		
+
+
+ 		form{
+ 			width:850px;
+ 			margin-left:24%;
+ 		}
+ 		
+ 		#chk{
+ 			width:70px;
+ 			height:44px;
+ 			border: 1px solid ;
+    		color:#FFF;
+    		background-color:#2C383B;
+ 		}
+ 	    #sg{
+ 	
+		width:100px;
+		height:50px;
+		background-color:#2C383B;
+		color:#FFFF;
+		margin-left:270px;
+		
+		
+		}

@@ -1,0 +1,90 @@
+#area {position:relative; top:1%;}
+section {position:relative; top:2.5%; width:78.5%; height:100%; z-index:2;}
+#fixed {
+	overflow-x: hidden; 
+    overflow-y: auto;
+	width: 19.6%;
+    height: 77%;
+	background-color:#2C383B;
+	position: absolute;
+	right: 0.2%;
+	top:22%;
+	border:5px solid gold;
+	border-radius:10px;
+	color:gold;
+	z-index:2;
+}
+#fixed table {
+	position:relative;
+	width:100%;
+}
+#fixed table tbody tr th { 
+	cursor:pointer; 
+	font-size:20px;
+}
+#fixed table tbody tr th:hover {
+	background-color:#ECECEC;
+	text-decoration:underline;
+	font-weight:bolder;
+}
+
+#hospital_desc {
+	width:80%;
+	height:15%;
+	text-align:center;
+	position:relative;
+	top:10%;
+}
+
+#hospital_desc h2 {
+	color:gold;
+}
+
+#hospital_desc h3 {
+	color:gold;
+}
+
+h3 {
+	font-size:18px;
+}
+#hospital_info {
+	position:relative;
+	background-color:#2C383B;
+	top:0.5%;
+	width:100%;
+	height:19.5%;
+	border:5px solid gold;
+	border-radius:10px;
+	overflow:auto;
+}
+#hospital_btn {
+	position:relative;
+	float:right;
+	width:10%;
+	height:25%;
+	top:5%;
+	right:1%;
+	color:gold;
+	background-color:#2C383B;
+	border:3px solid gold;
+	border-radius:5px;
+}
+#map {
+	width:100%;
+	height:55%;
+	position:relative;
+	border:5px solid gold;
+	border-radius:10px;
+}
+
+#mapInfo {
+	padding:5px;
+	font-weight:bolder;
+	color:gold;
+	border:5px solid gold;
+}
+
+#map a {
+	color:gold;
+	font-weight:bolder;
+}

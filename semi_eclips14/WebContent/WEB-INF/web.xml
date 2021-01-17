@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name>Atopidia</display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>MyCalendar</servlet-name>
+    <servlet-class>controller.CalendarController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyCalendar</servlet-name>
+    <url-pattern>/calendarcontroller.do</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>MyDiary</servlet-name>
+    <servlet-class>controller.DiaryController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyDiary</servlet-name>
+    <url-pattern>/diarycontroller.do</url-pattern>
+  </servlet-mapping>
+
+  
+  <servlet>
+  	<servlet-name>UserInfo</servlet-name>
+  	<servlet-class>controller.UserInfoController</servlet-class>
+  </servlet>  
+  <servlet-mapping>
+  	<servlet-name>UserInfo</servlet-name>
+  	<url-pattern>/userinfocontroller.do</url-pattern>
+  </servlet-mapping>
+  
+	
+<servlet>
+	<servlet-name>AdminInfo</servlet-name>
+	<servlet-class>controller.AdminInfoController</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>AdminInfo</servlet-name>
+	<url-pattern>/admininfocontroller.do</url-pattern>
+</servlet-mapping>
+	
+	
+	
+  <servlet>
+    <servlet-name>MyMap</servlet-name>
+    <servlet-class>controller.MapController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyMap</servlet-name>
+    <url-pattern>/mapcontroller.do</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>MyMember</servlet-name>
+    <servlet-class>controller.MemberController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MyMember</servlet-name>
+    <url-pattern>/membercontroller.do</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>UserRecipe</servlet-name>
+    <servlet-class>controller.UserRecipeController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserRecipe</servlet-name>
+    <url-pattern>/userrecipecontroller.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>AdminRecipe</servlet-name>
+  	<servlet-class>controller.AdminRecipeController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>AdminRecipe</servlet-name>
+  	<url-pattern>/adminrecipecontroller.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Main</servlet-name>
+    <servlet-class>controller.MainController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Main</servlet-name>
+    <url-pattern>/maincontroller.do</url-pattern>
+  </servlet-mapping>
+
+  
+</web-app>

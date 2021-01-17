@@ -1,0 +1,56 @@
+@charset "UTF-8";
+h1{
+	text-align:center;
+	margin:0;
+	padding:0;
+	font-weight:600;
+	color:#454445;
+	
+}
+#info{
+	width:85%;
+	height:100%;
+	margin:5% 10%;
+	position: relative;
+	
+}
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: #FFFFFF;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 11pt;
+	font-weight: 300;
+	color: #6c6c6c
+}
+
+.button{
+	display: inline-block;
+	padding: 1.3em 3em;
+	background: #2C383B;
+	-moz-transition: opacity 0.25s ease-in-out;
+	-webkit-transition: opacity 0.25s ease-in-out;
+	-o-transition: opacity 0.25s ease-in-out;
+	-ms-transition: opacity 0.25s ease-in-out;
+	transition: opacity 0.25s ease-in-out;
+	letter-spacing: 0.20em;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #FFF;
+}
+#tab{
+	text-align:center;
+}
+
+#info{
+	
+	color:#;
+	width: 85%;
+    height: 100%;
+    margin: 5% 10%;
+    position: relative;
+	
+}

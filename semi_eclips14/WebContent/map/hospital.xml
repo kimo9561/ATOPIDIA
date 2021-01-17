@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <header>
+    <columns>
+      <rowNum>번호</rowNum>
+      <opnSvcNm>개방서비스명</opnSvcNm>
+      <opnSvcId>개방서비스ID</opnSvcId>
+      <opnSfTeamCode>개방자치단체코드</opnSfTeamCode>
+      <mgtNo>관리번호</mgtNo>
+      <apvPermYmd>인허가일자</apvPermYmd>
+      <apvCancelYmd>인허가취소일자</apvCancelYmd>
+      <trdStateGbn>영업상태구분코드</trdStateGbn>
+      <trdStateNm>영업상태명</trdStateNm>
+      <dtlStateGbn>상세영업상태코드</dtlStateGbn>
+      <dtlStateNm>상세영업상태명</dtlStateNm>
+      <dcbYmd>폐업일자</dcbYmd>
+      <clgStdt>휴업시작일자</clgStdt>
+      <clgEnddt>휴업종료일자</clgEnddt>
+      <ropnYmd>재개업일자</ropnYmd>
+      <siteTel>소재지전화</siteTel>
+      <siteArea>소재지면적</siteArea>
+      <sitePostNo>소재지우편번호</sitePostNo>
+      <siteWhlAddr>소재지전체주소</siteWhlAddr>
+      <rdnWhlAddr>도로명전체주소</rdnWhlAddr>
+      <rdnPostNo>도로명우편번호</rdnPostNo>
+      <bplcNm>사업장명</bplcNm>
+      <lastModTs>최종수정시점</lastModTs>
+      <updateGbn>데이터갱신구분</updateGbn>
+      <updateDt>데이터갱신일자</updateDt>
+      <uptaeNm>업태구분명</uptaeNm>
+      <x>좌표정보(X)</x>
+      <y>좌표정보(Y)</y>
+      <metrOrgAssrNm>의료기관종별명</metrOrgAssrNm>
+      <metrpNum>의료인수</metrpNum>
+      <hstrmNum>입원실수</hstrmNum>
+      <sicbNum>병상수</sicbNum>
+      <totAr>총면적</totAr>
+      <medExtrItemsCn>진료과목내용</medExtrItemsCn>
+      <medExtrItemsCnNm>진료과목내용명</medExtrItemsCnNm>
+      <asgnCancelYmd>지정취소일자</asgnCancelYmd>
+      <mitMdcAsgnType>완화의료지정형태</mitMdcAsgnType>
+      <mitMdcDepNm>완화의료담당부서명</mitMdcDepNm>
+      <emerCarSpec>구급차특수</emerCarSpec>
+      <emerCarGen>구급차일반</emerCarGen>
+      <totEpNum>총인원</totEpNum>
+      <resCnt>구조사수</resCnt>
+      <pmtBedNum>허가병상수</pmtBedNum>
+      <frstAsgnYmd>최초지정일자</frstAsgnYmd>
+    </columns>
+    <paging>
+      <pageIndex>1</pageIndex>
+      <totalCount>51</totalCount>
+      <pageSize>51</pageSize>
+    </paging>
+    <process>
+      <code>00</code>
+      <message>정상 처리되었습니다.</message>
+    </process>
+  </header>
+  <body>
+    <rows>
+      <row>
+        <rowNum>1</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3210000</opnSfTeamCode>
+        <mgtNo>PHMA120193210034041100076</mgtNo>
+        <apvPermYmd>20191028</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-525-0567</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 서초구 방배동 907번지 5호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 서초구 방배로 108, 휴먼빌딩2 2층 (방배동)</rdnWhlAddr>
+        <rdnPostNo>06665</rdnPostNo>
+        <bplcNm>전혜주피부과의원</bplcNm>
+        <lastModTs>20191108024319</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2019-11-10 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.487531     </x>
+        <y>126.994180    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>159.26</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>2</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>6520000</opnSfTeamCode>
+        <mgtNo>PHMA120196520074041100009</mgtNo>
+        <apvPermYmd>20191104</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>064-739-4500</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>제주특별자치도 서귀포시 강정동 231번지 2호</siteWhlAddr>
+        <rdnWhlAddr>제주특별자치도 서귀포시 월드컵로 8, 4층 (강정동)</rdnWhlAddr>
+        <rdnPostNo>63560</rdnPostNo>
+        <bplcNm>투게더피부과의원</bplcNm>
+        <lastModTs>20191107214313</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2019-11-09 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>33.248963        </x>
+        <y>126.507345     </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>297</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>3</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3210000</opnSfTeamCode>
+        <mgtNo>PHMA120193210034041100081</mgtNo>
+        <apvPermYmd>20191107</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-592-5900</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 서초구 방배동 796번지 10호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 서초구 방배로36길 3, 알렌빌딩 3층 (방배동)</rdnWhlAddr>
+        <rdnPostNo>06584</rdnPostNo>
+        <bplcNm>이은피부과</bplcNm>
+        <lastModTs>20200314014319</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-17 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.493589 </x>
+        <y>126.990201    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>144.34</totAr>
+        <medExtrItemsCn>122 114 108</medExtrItemsCn>
+        <medExtrItemsCnNm>성형외과, 피부과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>4</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3740000</opnSfTeamCode>
+        <mgtNo>PHMA120193740106041100028</mgtNo>
+        <apvPermYmd>20191111</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-211-0079</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 수원시 영통구 원천동 589번지 광교중흥에스클래스</siteWhlAddr>
+        <rdnWhlAddr>경기도 수원시 영통구 광교호수공원로 277, 2F-004~011호 (원천동, 광교중흥에스클래스)</rdnWhlAddr>
+        <rdnPostNo>16517</rdnPostNo>
+        <bplcNm>더준피부과의원</bplcNm>
+        <lastModTs>20200314071326</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-08-05 00:23:26.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.284732 </x>
+        <y>127.056243</y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>254</totAr>
+        <medExtrItemsCn>114 108</medExtrItemsCn>
+        <medExtrItemsCnNm>성형외과, 피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>5</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3910000</opnSfTeamCode>
+        <mgtNo>PHMA120193910168041100029</mgtNo>
+        <apvPermYmd>20191115</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-653-0046</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 평택시 비전동 1103-1</siteWhlAddr>
+        <rdnWhlAddr>경기도 평택시 비전5로 20-24, 더테라스 1동 3층 303~308호, 311호호 (비전동)</rdnWhlAddr>
+        <rdnPostNo>17854</rdnPostNo>
+        <bplcNm>소사벌휴먼피부과의원</bplcNm>
+        <lastModTs>20200925091327</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-09-27 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.014533     </x>
+        <y>127.106387    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>3</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>837.2</totAr>
+        <medExtrItemsCn>122 114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>6</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3140000</opnSfTeamCode>
+        <mgtNo>PHMA120193140033041100021</mgtNo>
+        <apvPermYmd>20191126</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-2655-2000</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 양천구 목동 917번지 9호 현대41타워 2층 205호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 양천구 목동동로 293, 현대41타워 2층 205호 (목동)</rdnWhlAddr>
+        <rdnPostNo>07997</rdnPostNo>
+        <bplcNm>연세41피부과의원</bplcNm>
+        <lastModTs>20191227004312</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2019-12-29 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.528144     </x>
+        <y>126.875756    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>243.87</totAr>
+        <medExtrItemsCn>122 115 114 112 111 109 108 106 105 104 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 외과, 정형외과, 신경외과, 성형외과, 마취통증의학과, 소아청소년과, 안과, 피부과, 비뇨의학과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>8</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3240000</opnSfTeamCode>
+        <mgtNo>PHMA120193240033041100043</mgtNo>
+        <apvPermYmd>20191210</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-441-7008</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강동구 고덕동 212번지 고덕그라시움아파트(상가4동)</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강동구 고덕로 385, 고덕그라시움아파트(상가4동) 4층 401~407호 (고덕동)</rdnWhlAddr>
+        <rdnPostNo>05223</rdnPostNo>
+        <bplcNm>타임리스피부과의원</bplcNm>
+        <lastModTs>20200403044315</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-04-05 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.557060     </x>
+        <y>127.166864    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>227</totAr>
+        <medExtrItemsCn>122 114 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 피부과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>9</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>5530000</opnSfTeamCode>
+        <mgtNo>PHMA120195530021041100090</mgtNo>
+        <apvPermYmd>20191226</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-8015-1366</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 화성시 반송동 104번지 1호</siteWhlAddr>
+        <rdnWhlAddr>경기도 화성시 동탄반석로 134, 메디컬빌딩 401호 (반송동)</rdnWhlAddr>
+        <rdnPostNo>18455</rdnPostNo>
+        <bplcNm>김&amp;리피부과의원</bplcNm>
+        <lastModTs>20200317101339</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-08-05 00:23:26.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.201068       </x>
+        <y>127.071287   </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>317</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>10</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3240000</opnSfTeamCode>
+        <mgtNo>PHMA120203240033041100005</mgtNo>
+        <apvPermYmd>20200114</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-3013-3301</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강동구 고덕로 353, 고덕그라시움아파트(상가1동) 종합상가동 3층 301호 (고덕동)</rdnWhlAddr>
+        <rdnPostNo>05224</rdnPostNo>
+        <bplcNm>스타피부과의원</bplcNm>
+        <lastModTs>20200304164519</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-06 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.557706     </x>
+        <y>127.166863    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>108.5</totAr>
+        <medExtrItemsCn>101 108 114 122</medExtrItemsCn>
+        <medExtrItemsCnNm>가정의학과, 피부과, 성형외과, 내과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>11</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100011</mgtNo>
+        <apvPermYmd>20200117</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-545-7737</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 청담동 85번지 3호 남한강빌딩 7층</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 선릉로 820, 남한강빌딩 7층 (청담동)</rdnWhlAddr>
+        <rdnPostNo>06014</rdnPostNo>
+        <bplcNm>스토리피부과의원</bplcNm>
+        <lastModTs>20200828014338</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-08-30 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.525039     </x>
+        <y>127.040094    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>208</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>13</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>5670000</opnSfTeamCode>
+        <mgtNo>PHMA120205670066041100001</mgtNo>
+        <apvPermYmd>20200130</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>055-243-3600</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경상남도 창원시 마산합포구 신포동2가 23번지</siteWhlAddr>
+        <rdnWhlAddr>경상남도 창원시 마산합포구 동서동2길 60, 3층 307~310호 (신포동2가)</rdnWhlAddr>
+        <rdnPostNo>51720</rdnPostNo>
+        <bplcNm>엠에스피부과의원</bplcNm>
+        <lastModTs>20200314011333</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-17 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>35.201950     </x>
+        <y>128.574217     </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>486.65</totAr>
+        <medExtrItemsCn>114 113 112 108 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 성형외과, 안과, 이비인후과, 피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>14</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3000000</opnSfTeamCode>
+        <mgtNo>PHMA120203000034041100001</mgtNo>
+        <apvPermYmd>20200204</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>051-806-5824</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>부산광역시 부산진구 부전동 서면로 74 아이온시티빌딩 12층</rdnWhlAddr>
+        <rdnPostNo>03159</rdnPostNo>
+        <bplcNm>맥스웰피부과의원</bplcNm>
+        <lastModTs>20200206234322</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-02-08 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>35.157004     </x>
+        <y>129.058233    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>160.73</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>15</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>4820000</opnSfTeamCode>
+        <mgtNo>PHMA120204820026041100003</mgtNo>
+        <apvPermYmd>20200207</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>061-723-7178</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>전라남도 순천시 해룡면 상삼리 648-9</rdnWhlAddr>
+        <rdnPostNo>58012</rdnPostNo>
+        <bplcNm>세종의원 피부과</bplcNm>
+        <lastModTs>20200508031317</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-05-10 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>34.947774        </x>
+        <y>127.528906       </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>340.06</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>16</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3210000</opnSfTeamCode>
+        <mgtNo>PHMA120203210034041100010</mgtNo>
+        <apvPermYmd>20200214</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-592-1240</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 서초구 잠원동 61번지 9호 잠원동 스타빌딩  호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 서초구 잠원로4길 33-2, 잠원동 스타빌딩 203호 일부 및 204,205호 (잠원동)</rdnWhlAddr>
+        <rdnPostNo>06519</rdnPostNo>
+        <bplcNm>갤러리아피부과의원</bplcNm>
+        <lastModTs>20200314014319</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-17 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.512796     </x>
+        <y>127.010501    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>260.63</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>17</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3230000</opnSfTeamCode>
+        <mgtNo>PHMA120203230034041100017</mgtNo>
+        <apvPermYmd>20200219</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-420-7702</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 송파구 석촌동 286번지 5호 대신빌딩 5층</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 송파구 백제고분로 364, 대신빌딩 5층 (석촌동)</rdnWhlAddr>
+        <rdnPostNo>05685</rdnPostNo>
+        <bplcNm>닥터스피부과의원</bplcNm>
+        <lastModTs>20200508041321</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-05-10 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.504591     </x>
+        <y>127.106880    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>464.27</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>18</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3050000</opnSfTeamCode>
+        <mgtNo>PHMA120203050034041100002</mgtNo>
+        <apvPermYmd>20200226</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-966-3141</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 동대문구 제기동 1012번지 3층</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 동대문구 왕산로 151, 왕산빌딩 3층 (제기동)</rdnWhlAddr>
+        <rdnPostNo>02571</rdnPostNo>
+        <bplcNm>우태하피부과의원 동대문점</bplcNm>
+        <lastModTs>20200320054313</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-22 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.578825     </x>
+        <y>127.040134    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>138</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>19</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100029</mgtNo>
+        <apvPermYmd>20200227</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-518-1519</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 청담동 133번지 2호 삼강빌딩</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 영동대로 704, 삼강빌딩 4층 (청담동)</rdnWhlAddr>
+        <rdnPostNo>06075</rdnPostNo>
+        <bplcNm>청담하트피부과의원</bplcNm>
+        <lastModTs>20200312153315</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-14 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.520537     </x>
+        <y>127.057394    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>303.04</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>20</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3070000</opnSfTeamCode>
+        <mgtNo>PHMA120203070034041100005</mgtNo>
+        <apvPermYmd>20200228</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-980-8731</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 성북구 길음동 22번지 1호 장안웨딩프라자</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 성북구 도봉로 1, 장안웨딩프라자 (길음동)</rdnWhlAddr>
+        <rdnPostNo>02729</rdnPostNo>
+        <bplcNm>이든피부과의원</bplcNm>
+        <lastModTs>20200306014312</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-03-08 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.609248    </x>
+        <y>127.029425     </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>207</totAr>
+        <medExtrItemsCn>114 111 108 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 성형외과, 소아청소년과, 피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>21</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>4040000</opnSfTeamCode>
+        <mgtNo>PHMA120204040023041100004</mgtNo>
+        <apvPermYmd>20200305</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-791-7911</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 하남시 망월동 1131번지 서건 미사 메트로타워</siteWhlAddr>
+        <rdnWhlAddr>경기도 하남시 미사강변동로 82, 서건 미사 메트로타워 403~408호 (망월동)</rdnWhlAddr>
+        <rdnPostNo>12912</rdnPostNo>
+        <bplcNm>서울미라클피부과의원</bplcNm>
+        <lastModTs>20200925214325</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-09-27 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.562538     </x>
+        <y>127.193717    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>256.14</totAr>
+        <medExtrItemsCn>122 114 108 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 성형외과, 피부과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>22</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3190000</opnSfTeamCode>
+        <mgtNo>PHMA120203190033041100010</mgtNo>
+        <apvPermYmd>20200310</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-6484-8200</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 동작구 흑석동 1번지 3호 원불교100년기념관</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 동작구 현충로 75, 원불교100년기념관 3층 2호 (흑석동)</rdnWhlAddr>
+        <rdnPostNo>06904</rdnPostNo>
+        <bplcNm>더힐피부과의원</bplcNm>
+        <lastModTs>20200904014318</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-09-06 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.509830    </x>
+        <y>126.963946     </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>189</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>23</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3200000</opnSfTeamCode>
+        <mgtNo>PHMA120203200033041100006</mgtNo>
+        <apvPermYmd>20200316</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-883-7703</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 관악구 봉천동 858번지 6호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 관악구 관악로 186, 2층 (봉천동)</rdnWhlAddr>
+        <rdnPostNo>08738</rdnPostNo>
+        <bplcNm>휴먼피부과의원</bplcNm>
+        <lastModTs>20200807004314</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-08-09 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.481398     </x>
+        <y>126.953556     </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>324.14</totAr>
+        <medExtrItemsCn>122 114 113 112 111</medExtrItemsCn>
+        <medExtrItemsCnNm>소아청소년과, 안과, 이비인후과, 피부과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>24</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>4050000</opnSfTeamCode>
+        <mgtNo>PHMA120204050148041100010</mgtNo>
+        <apvPermYmd>20200326</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-365-0077</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>서울특별시 마포구 아현동 329-1 수창빌딩 7층</rdnWhlAddr>
+        <rdnPostNo>16919</rdnPostNo>
+        <bplcNm>타임리스피부과의원  마포점</bplcNm>
+        <lastModTs>20200612004329</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-06-14 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.557093     </x>
+        <y>126.955734    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>195.66</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>25</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>4710000</opnSfTeamCode>
+        <mgtNo>PHMA120204710028041100002</mgtNo>
+        <apvPermYmd>20200330</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-534-9991</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>서울특별시 동작구 사당동 147-53</rdnWhlAddr>
+        <rdnPostNo>54398</rdnPostNo>
+        <bplcNm>박성현피부과</bplcNm>
+        <lastModTs>20200331111958</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-04-02 00:23:32.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.484712        </x>
+        <y>126.981510        </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>278</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>26</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>4640000</opnSfTeamCode>
+        <mgtNo>PHMA120204640131041100008</mgtNo>
+        <apvPermYmd>20200402</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>1670-1637</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 신사동 도산대로 107 10층</rdnWhlAddr>
+        <rdnPostNo>55149</rdnPostNo>
+        <bplcNm>닥터스피부과의원</bplcNm>
+        <lastModTs>20200417024314</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-04-19 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.516822 </x>
+        <y>127.020132</y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>355.49</totAr>
+        <medExtrItemsCn>114 108</medExtrItemsCn>
+        <medExtrItemsCnNm>성형외과, 피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>27</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3210000</opnSfTeamCode>
+        <mgtNo>PHMA120203210034041100027</mgtNo>
+        <apvPermYmd>20200408</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-434-4333</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>서울특별시 중랑구 면목동 126-39</rdnWhlAddr>
+        <rdnPostNo>06593</rdnPostNo>
+        <bplcNm>서울원피부과의원</bplcNm>
+        <lastModTs>20200626011326</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-06-28 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.589010     </x>
+        <y>127.087016    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>7</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>219.26</totAr>
+        <medExtrItemsCn>122 120 114 111 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 소아청소년과, 피부과, 재활의학과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>28</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100055</mgtNo>
+        <apvPermYmd>20200409</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>042-482-1675</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr></siteWhlAddr>
+        <rdnWhlAddr>대전광역시 서구 둔산1동 1423</rdnWhlAddr>
+        <rdnPostNo>06024</rdnPostNo>
+        <bplcNm>DS피부과의원</bplcNm>
+        <lastModTs>20200416231326</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-04-18 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>36.349287    </x>
+        <y>127.387094   </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>469.6</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>29</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100060</mgtNo>
+        <apvPermYmd>20200416</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>0507-1483-0507</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 청담동 87번지 11호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 도산대로 417, 4층 (청담동)</rdnWhlAddr>
+        <rdnPostNo>06014</rdnPostNo>
+        <bplcNm>엘레멘트피부과의원</bplcNm>
+        <lastModTs>20200424001324</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-04-26 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.523733     </x>
+        <y>127.041115    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>251.8</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>30</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100064</mgtNo>
+        <apvPermYmd>20200427</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-541-9790</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 신사동 579번지 3호 베네하임시티</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 압구정로 162, 베네하임시티 4층 (신사동)</rdnWhlAddr>
+        <rdnPostNo>06030</rdnPostNo>
+        <bplcNm>더힐피부과의원</bplcNm>
+        <lastModTs>20200507224332</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-05-09 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.526299     </x>
+        <y>127.027464    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>229.25</totAr>
+        <medExtrItemsCn>114 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>31</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3370000</opnSfTeamCode>
+        <mgtNo>PHMA120203370022041100012</mgtNo>
+        <apvPermYmd>20200506</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>051-967-1004</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>부산광역시 연제구 연산동 582번지 1호</siteWhlAddr>
+        <rdnWhlAddr>부산광역시 연제구 반송로 89, 3층 301호 (연산동)</rdnWhlAddr>
+        <rdnPostNo>47518</rdnPostNo>
+        <bplcNm>메이준피부과의원</bplcNm>
+        <lastModTs>20200508014317</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-05-09 00:23:20.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>35.191612     </x>
+        <y>129.088478    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>201.65</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>32</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100073</mgtNo>
+        <apvPermYmd>20200507</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-6953-7654</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 청담동 47번지 5호 정한빌딩</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 학동로 443, 정한빌딩 2층 (청담동)</rdnWhlAddr>
+        <rdnPostNo>06068</rdnPostNo>
+        <bplcNm>스킨다피부과의원</bplcNm>
+        <lastModTs>20200515031331</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-05-17 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.518903     </x>
+        <y>127.049369    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>234.2</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>33</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3090000</opnSfTeamCode>
+        <mgtNo>PHMA120203090033041100006</mgtNo>
+        <apvPermYmd>20200518</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-955-9923</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 도봉구 방학동 680번지 1호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 도봉구 도봉로 669, 이정빌딩 3층 302호 (방학동)</rdnWhlAddr>
+        <rdnPostNo>01346</rdnPostNo>
+        <bplcNm>연세늘봄피부과의원</bplcNm>
+        <lastModTs>20200730171128</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-08-01 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.664196     </x>
+        <y>127.042277    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>213.69</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>34</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3410000</opnSfTeamCode>
+        <mgtNo>PHMA120203410023041100007</mgtNo>
+        <apvPermYmd>20200520</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>053-431-3377</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>대구광역시 중구 동산동 616번지</siteWhlAddr>
+        <rdnWhlAddr>대구광역시 중구 달구벌대로 1999, 3층 (동산동)</rdnWhlAddr>
+        <rdnPostNo>41931</rdnPostNo>
+        <bplcNm>힐스피부과의원</bplcNm>
+        <lastModTs>20200529001325</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-05-31 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>35.865369       </x>
+        <y>128.582743       </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>298.57</totAr>
+        <medExtrItemsCn>112 114 108 113 122 116 104 105 111 101 102</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 신경과, 외과, 정형외과, 성형외과, 소아청소년과, 안과, 이비인후과, 피부과, 영상의학과, 가정의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>35</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3210000</opnSfTeamCode>
+        <mgtNo>PHMA120203210034041100037</mgtNo>
+        <apvPermYmd>20200527</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-353-9990</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 은평구 갈현동 396-12</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 은평구 갈현동 396-12</rdnWhlAddr>
+        <rdnPostNo>06611</rdnPostNo>
+        <bplcNm>나인피부과의원</bplcNm>
+        <lastModTs>20200604214316</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-06-06 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.619002     </x>
+        <y>126.920237    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>293.77</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>36</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3600000</opnSfTeamCode>
+        <mgtNo>PHMA120203600020041100011</mgtNo>
+        <apvPermYmd>20200605</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-567-3630</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 역삼동 선릉로 311 2층</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 역삼동 선릉로 311 2층</rdnWhlAddr>
+        <rdnPostNo>61932</rdnPostNo>
+        <bplcNm>닥터스피부과의원</bplcNm>
+        <lastModTs>20200618224314</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-06-20 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.497251       </x>
+        <y>127.052014         </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>380.75</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>37</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>5350000</opnSfTeamCode>
+        <mgtNo>PHMA120205350029041100010</mgtNo>
+        <apvPermYmd>20200605</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-413-2303</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 송파구 잠실본동 올림픽로 114</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 송파구 잠실본동 올림픽로 114</rdnWhlAddr>
+        <rdnPostNo>50948</rdnPostNo>
+        <bplcNm>리뉴미피부과의원</bplcNm>
+        <lastModTs>20200612001318</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-06-14 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.511363     </x>
+        <y>127.083137    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>283.5</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>38</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3740000</opnSfTeamCode>
+        <mgtNo>PHMA120203740033041100010</mgtNo>
+        <apvPermYmd>20200616</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-898-9588</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 수원시 팔달구 인계동 1120</siteWhlAddr>
+        <rdnWhlAddr>경기도 수원시 팔달구 인계동 1120</rdnWhlAddr>
+        <rdnPostNo>16461</rdnPostNo>
+        <bplcNm>힐스킨피부과의원</bplcNm>
+        <lastModTs>20200626011351</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-08-05 00:23:26.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.263876     </x>
+        <y>127.033099    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>3</metrpNum>
+        <hstrmNum>1</hstrmNum>
+        <sicbNum>2</sicbNum>
+        <totAr>350.48</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>39</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>5530000</opnSfTeamCode>
+        <mgtNo>PHMA120205530021041100035</mgtNo>
+        <apvPermYmd>20200617</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-831-8483</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 화성시 산척동 728번지 5호</siteWhlAddr>
+        <rdnWhlAddr>경기도 화성시 동탄순환대로 127-9, 우성애비뉴타워 405~408호 (산척동)</rdnWhlAddr>
+        <rdnPostNo>18505</rdnPostNo>
+        <bplcNm>리멤버피부과의원 동탄점</bplcNm>
+        <lastModTs>20200619001337</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-08-05 00:23:26.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.164619 </x>
+        <y>127.107135</y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>315.99</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>40</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3280000</opnSfTeamCode>
+        <mgtNo>PHMA120203280023041100005</mgtNo>
+        <apvPermYmd>20200709</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-3421-7563</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 중랑구 신내동 667</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 중랑구 신내동 667</rdnWhlAddr>
+        <rdnPostNo>49057</rdnPostNo>
+        <bplcNm>김한중피부과의원</bplcNm>
+        <lastModTs>20200717101316</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-07-19 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.606617     </x>
+        <y>127.095583    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>287.52</totAr>
+        <medExtrItemsCn>115 114 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 피부과, 비뇨의학과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>41</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>4010000</opnSfTeamCode>
+        <mgtNo>PHMA120204010281041100013</mgtNo>
+        <apvPermYmd>20200713</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-435-0550</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 시흥시 능곡동 722 시티타워</siteWhlAddr>
+        <rdnWhlAddr>경기도 시흥시 승지로59번길 12, 시티타워 4층 401~402호 (능곡동)</rdnWhlAddr>
+        <rdnPostNo>14995</rdnPostNo>
+        <bplcNm>더바른피부과의원</bplcNm>
+        <lastModTs>20200723214328</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-07-25 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.369039     </x>
+        <y>126.809132    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>229.16</totAr>
+        <medExtrItemsCn>114 111 101</medExtrItemsCn>
+        <medExtrItemsCnNm>내과, 소아청소년과, 피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>42</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100124</mgtNo>
+        <apvPermYmd>20200731</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-2061-9553</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 양천구 목3동 공항대로 558</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 양천구 목3동 공항대로 558</rdnWhlAddr>
+        <rdnPostNo>06030</rdnPostNo>
+        <bplcNm>플라워피부과</bplcNm>
+        <lastModTs>20200827221327</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-08-29 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.549232            </x>
+        <y>126.867322            </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>198</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>44</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3670000</opnSfTeamCode>
+        <mgtNo>PHMA120203670022041100009</mgtNo>
+        <apvPermYmd>20200821</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>042-822-2075</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>대전광역시 유성구 지족동 901-5 계룡프라자 501,502호</siteWhlAddr>
+        <rdnWhlAddr>대전광역시 유성구 노은로 166, 계룡프라자 501,502호 (지족동)</rdnWhlAddr>
+        <rdnPostNo>34086</rdnPostNo>
+        <bplcNm>조아피부과</bplcNm>
+        <lastModTs>20200827214320</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-08-29 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>36.374429        </x>
+        <y>127.318443       </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>188.22</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>45</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>5530000</opnSfTeamCode>
+        <mgtNo>PHMA120205530021041100054</mgtNo>
+        <apvPermYmd>20200827</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>031-377-5475</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>경기도 화성시 송동 694 동탄린스트라우스더레이크</siteWhlAddr>
+        <rdnWhlAddr>경기도 화성시 동탄대로 181, 304,305,306호 (송동, 동탄린스트라우스더레이크)</rdnWhlAddr>
+        <rdnPostNo>18497</rdnPostNo>
+        <bplcNm>레이크봄봄피부과의원</bplcNm>
+        <lastModTs>20200904011327</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-09-06 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.172140 </x>
+        <y>127.106131</y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>192.5</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>46</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>5020000</opnSfTeamCode>
+        <mgtNo>PHMA120205020055041100004</mgtNo>
+        <apvPermYmd>20200917</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-2281-6589</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 성동구 행당동 317-40</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 성동구 행당동 317-40</rdnWhlAddr>
+        <rdnPostNo>37883</rdnPostNo>
+        <bplcNm>김동준피부과</bplcNm>
+        <lastModTs>20200929153921</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-10-01 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.557384     </x>
+        <y>127.028435    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>79.82</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>47</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3180000</opnSfTeamCode>
+        <mgtNo>PHMA120203180034041100032</mgtNo>
+        <apvPermYmd>20200921</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-834-7001</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 영등포구 신길동 2363 메트하임 301호</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 영등포구 신풍로 93, 메트하임 3층 301호 (신길동)</rdnWhlAddr>
+        <rdnPostNo>07392</rdnPostNo>
+        <bplcNm>디앤써피부과의원</bplcNm>
+        <lastModTs>20200925221319</lastModTs>
+        <updateGbn>U</updateGbn>
+        <updateDt>2020-09-27 02:40:00.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.500031     </x>
+        <y>126.916972     </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>2</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>144.98</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>48</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3190000</opnSfTeamCode>
+        <mgtNo>PHMA120203190033041100020</mgtNo>
+        <apvPermYmd>20200922</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-394-8275</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 서대문구 홍제동 173-16</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 서대문구 홍제동 173-16</rdnWhlAddr>
+        <rdnPostNo>06964</rdnPostNo>
+        <bplcNm>리뉴피부과의원</bplcNm>
+        <lastModTs>20200923174525</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-09-25 00:23:12.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.587577     </x>
+        <y>126.945125    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>182.5</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>49</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3220000</opnSfTeamCode>
+        <mgtNo>PHMA120203220033041100165</mgtNo>
+        <apvPermYmd>20200923</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-3446-7795</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 강남구 논현동 3-2 청호빌딩</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 강남구 도산대로 120, 청호빌딩 13층 (논현동)</rdnWhlAddr>
+        <rdnPostNo>06038</rdnPostNo>
+        <bplcNm>오수진피부과의원</bplcNm>
+        <lastModTs>20200929112006</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-10-01 00:23:11.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.516684     </x>
+        <y>127.021870    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>159.06</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>50</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3230000</opnSfTeamCode>
+        <mgtNo>PHMA120203230034041100062</mgtNo>
+        <apvPermYmd>20200928</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-495-1974</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 중랑구 중화1동 286-25</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 중랑구 중화1동 286-25</rdnWhlAddr>
+        <rdnPostNo>05652</rdnPostNo>
+        <bplcNm>리윤피부과의원</bplcNm>
+        <lastModTs>20200929112327</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-10-01 00:23:11.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.601972     </x>
+        <y>127.079727    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>231.29</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+      <row>
+        <rowNum>51</rowNum>
+        <opnSvcNm>의원</opnSvcNm>
+        <opnSvcId>01_01_02_P</opnSvcId>
+        <opnSfTeamCode>3030000</opnSfTeamCode>
+        <mgtNo>PHMA120203030033041100025</mgtNo>
+        <apvPermYmd>20200929</apvPermYmd>
+        <apvCancelYmd></apvCancelYmd>
+        <trdCode>01</trdCode>
+        <trdCodeNm>영업/정상</trdCodeNm>
+        <trdStateGbn>13</trdStateGbn>
+        <trdStateNm>영업중</trdStateNm>
+        <dcbYmd></dcbYmd>
+        <clgStdt></clgStdt>
+        <clgEnddt></clgEnddt>
+        <ropnYmd></ropnYmd>
+        <siteTel>02-6953-8085</siteTel>
+        <siteArea></siteArea>
+        <sitePostNo></sitePostNo>
+        <siteWhlAddr>서울특별시 성동구 성수동1가 656-335 지하1층</siteWhlAddr>
+        <rdnWhlAddr>서울특별시 성동구 왕십리로 50, 지하1층 (성수동1가)</rdnWhlAddr>
+        <rdnPostNo>04778</rdnPostNo>
+        <bplcNm>더윤피부과의원</bplcNm>
+        <lastModTs>20200929142056</lastModTs>
+        <updateGbn>I</updateGbn>
+        <updateDt>2020-10-01 00:23:11.0</updateDt>
+        <uptaeNm>의원</uptaeNm>
+        <x>37.541854     </x>
+        <y>127.045004    </y>
+        <metrOrgAssrNm>의원</metrOrgAssrNm>
+        <metrpNum>1</metrpNum>
+        <hstrmNum>0</hstrmNum>
+        <sicbNum>0</sicbNum>
+        <totAr>167.5</totAr>
+        <medExtrItemsCn>114</medExtrItemsCn>
+        <medExtrItemsCnNm>피부과</medExtrItemsCnNm>
+        <asgnCancelYmd></asgnCancelYmd>
+        <mitMdcAsgnType></mitMdcAsgnType>
+        <mitMdcDepNm></mitMdcDepNm>
+        <emerCarSpec>0</emerCarSpec>
+        <emerCarGen>0</emerCarGen>
+        <totEpNum></totEpNum>
+        <resCnt></resCnt>
+        <pmtBedNum>0</pmtBedNum>
+        <frstAsgnYmd></frstAsgnYmd>
+      </row>
+    </rows>
+  </body>
+</result>
